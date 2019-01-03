@@ -10,7 +10,8 @@ LinkedIn: <a href="https://www.linkedin.com/in/natallia-lastovenko/">https://www
   <li>HTML5, Pug, BEM</li>
   <li>CSS3, SASS, LESS</li>
   <li>Jest, Enzyme, Mocha, Chai, Sinon</li>
-  <li>Git, Sequelize, Docker, Jira</li>
+  <li>Git, Sequelize, Docker</li>
+  <li>Jira, Trello</li>
   <li>Sketch, Adobe Photoshop, Sympli</li>
 </ul>
 
