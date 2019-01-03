@@ -5,34 +5,14 @@ E-mail: <a href="mailto:natasha.lastavenka@gmail.com">natasha.lastavenka@gmail.c
 LinkedIn: <a href="https://www.linkedin.com/in/natallia-lastovenko/">https://www.linkedin.com/in/natallia-lastovenko/</a>
 
 <h3>TECHNOLOGIES AND TOOLS</h3>
-
 <ul>
+  <li>JavaScript (ES6), React, Node.js (Express.js)</li>
   <li>HTML5, Pug, BEM</li>
   <li>CSS3, SASS, LESS</li>
-  <li>JavaScript (ES6), React, Node.js (Express.js)</li>
   <li>Jest, Enzyme, Mocha, Chai, Sinon</li>
   <li>Git, Sequelize, Docker, Jira</li>
   <li>Sketch, Adobe Photoshop, Sympli</li>
 </ul>
-
-<h3>COURSES</h3>
-<p><strong>JavaScript basic course</strong><br>
-  HTML Academy, St Petersburg, Russia<br>
-  <em>Mar - May 2017</em>
-</p>
-<p><strong>HTML &#38; CSS advanced course</strong><br>
-  HTML Academy, St Petersburg, Russia<br>
-  <em>Feb - Apr 2015</em>
-</p>
-<p><strong>HTML &#38; CSS basic course</strong><br>
-  HTML Academy, St Petersburg, Russia<br>
-  <em>Nov - Dec 2014</em>
-</p>
-<p><strong>Adobe Photoshop Basic Training Course</strong><br>
-  Profile Virtual School, Moscow, Russia<br>
-  <em>Jul - Sept 2014</em>
-</p>
-
 
 <h3>PROFESSIONAL EXPERIENCE</h3>
 <p><strong>Full Stack JavaScript Developer</strong><br>
@@ -55,6 +35,24 @@ LinkedIn: <a href="https://www.linkedin.com/in/natallia-lastovenko/">https://www
   <strong>Publishing house «Belorussian encyclopedia»</strong>, Minsk, Belarus<br>
   <em>Natural sciences editorship</em><br>
   <em>2008–2009</em>
+</p>
+
+<h3>COURSES</h3>
+<p><strong>JavaScript basic course</strong><br>
+  HTML Academy, St Petersburg, Russia<br>
+  <em>Mar - May 2017</em>
+</p>
+<p><strong>HTML &#38; CSS advanced course</strong><br>
+  HTML Academy, St Petersburg, Russia<br>
+  <em>Feb - Apr 2015</em>
+</p>
+<p><strong>HTML &#38; CSS basic course</strong><br>
+  HTML Academy, St Petersburg, Russia<br>
+  <em>Nov - Dec 2014</em>
+</p>
+<p><strong>Adobe Photoshop Basic Training Course</strong><br>
+  Profile Virtual School, Moscow, Russia<br>
+  <em>Jul - Sept 2014</em>
 </p>
 
 <h3>LANGUAGE SKILLS</h3>
