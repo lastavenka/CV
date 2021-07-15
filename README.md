@@ -17,8 +17,12 @@ LinkedIn: <a href="https://www.linkedin.com/in/natallia-lastovenko/">https://www
 
 <h3>PROFESSIONAL EXPERIENCE</h3>
 <p><strong>Full Stack JavaScript Developer</strong><br>
+  <strong>Intergiro Technologies</strong>, Minsk, Belarus<br>
+  <em>2019 - present</em>
+</p>
+<p><strong>Full Stack JavaScript Developer</strong><br>
   <strong>Godel Technologies Europe</strong>, Minsk, Belarus<br>
-  <em>2018 - present</em>
+  <em>2018 - 2019</em>
 </p>
 <p><strong>Freelance frontend developer</strong><br>
   <em>2017</em>
